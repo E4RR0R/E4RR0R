@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @E4RR0R
-- 👀 I’m interested in making games, code/srcipt and football.
+- 👀 I’m interested in making games using python and like football.
 - 🌱 I’m currently learning how to make a roblox game and code/scirpt.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me message me on Discord USER:hashbina1576
